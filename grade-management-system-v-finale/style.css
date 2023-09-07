@@ -1,0 +1,23 @@
+        .bg-primary{
+            background-color: rgb(4, 37, 82 , 1) !important ;
+            color: white;
+        }
+        .bg-primary:hover{
+            background-color: rgb(4, 37, 82 , 1) !important ;
+            color: white;
+        }
+        .border-primary{
+            border-color: rgb(4, 37, 82 , 1) !important ;
+        }
+        .text-primary{
+            color: rgb(4, 37, 82 , 1) !important;
+        }
+        .table-primary{
+            background-color: rgb(4, 37, 82 , 1) !important ;
+        }
+        .bg-info{
+            background-color: rgba(255, 207, 45, 1) !important ;
+            color: black;
+        }
+
+
